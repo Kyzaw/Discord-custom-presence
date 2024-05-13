@@ -1,0 +1,14 @@
+{
+  "name": "discord-rpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "./src/app.js"
+  },
+  "author": "Kyzaww",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  }
+}
